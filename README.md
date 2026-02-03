@@ -7,6 +7,8 @@
 💻 Desarrollador Full Stack  
 📍 Perú  
 🚀 Apasionado por crear soluciones escalables con tecnologías modernas
+![Versión de TypeScript](https://img.shields.io/npm/v/typescript?label=typescript)
+
 
 </div>
 
